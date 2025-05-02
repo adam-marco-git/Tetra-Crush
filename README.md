@@ -4,3 +4,4 @@ This coding project developed by coders was programmed to combine Tetris and Blo
 
 # How to run
 - Launch from launcher.py (main menu)
+- Might have to download all files for the game to run from launcher.py
